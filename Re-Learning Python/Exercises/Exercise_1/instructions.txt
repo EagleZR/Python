@@ -1,0 +1,4 @@
+Exercise 1: Basic I/O
+1. Print out some text (string)
+2. Take in some input and verify that it was correctly received by outputting it
+3. Input data, manipulate it, and output it again
